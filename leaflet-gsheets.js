@@ -10,8 +10,10 @@ function init() {
   // PASTE YOUR URLs HERE
   // these URLs come from Google Sheets 'shareable link' form
   // the first is the polygon layer and the second the points
-  var polyURL =
-    "https://docs.google.com/spreadsheets/d/1EUFSaqi30b6oefK0YWWNDDOzwmCTTXlXkFHAc2QrUxM/edit?usp=sharing";
+  var polyURL = 
+	"https://docs.google.com/spreadsheets/d/1_YNUe12SOgQ1Aopn59u3MHkUyFUkGlEVVAbL40IF-0o/edit?usp=sharing";
+	//"https://github.com/iarv69/leaflet-gsheets.git";
+    //"https://docs.google.com/spreadsheets/d/1EUFSaqi30b6oefK0YWWNDDOzwmCTTXlXkFHAc2QrUxM/edit?usp=sharing";
   var pointsURL =
     "https://docs.google.com/spreadsheets/d/1kjJVPF0LyaiaDYF8z_x23UulGciGtBALQ1a1pK0coRM/edit?usp=sharing";
 
